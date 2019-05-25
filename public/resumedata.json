@@ -1,0 +1,195 @@
+{
+    "main": {
+      "name":"Kundan Kumar",
+      "occupation":"J2EE Full Stack Developer",
+      "description":"I design and program websites and web applications of all types. Knowledge on E2E application development to Deployment using Agile Methodologies",
+      "image":"profilepic.jpg",
+      "bio":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+      "email": "kundanxavier@hotmail.com",
+      "phone": "+91-8434-XXXXXX",
+      "address":{
+        "street":"Shapoorji Pallonji",
+        "city":"Kolkata",
+        "state":"West Bengal",
+        "zip": "7000135"
+      },
+      "website": "http://www.xxxx.com",
+      "resumedownload":"http://XXXXXXX.com",
+      "social":[
+        {
+          "name":"facebook",
+          "url":"http://facebook.com",
+          "className":"fa fa-facebook"
+        },
+        {
+          "name":"twitter",
+          "url":"http://twitter.com",
+          "className":"fa fa-twitter"
+        },
+        {
+          "name":"google-plus",
+          "url":"http://googleplus.com",
+          "className":"fa fa-google-plus"
+        },
+        {
+          "name":"linkedin",
+          "url":"http://linkedin.com",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"instagram",
+          "url":"http://instagram.com",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"github",
+          "url":"http://github.com",
+          "className":"fa fa-github"
+        },
+        {
+          "name":"skype",
+          "url":"http://skype.com",
+          "className":"fa fa-skype"
+        }
+      ]
+    },
+    "resume":{
+      "education":[
+        {
+          "school":"SASTRA University",
+          "degree":"Master in Computer Science",
+          "graduated":"April 211",
+          "description":""
+        },
+        {
+          "school":"Ranchi University",
+          "degree":"Mathematics Hons",
+          "graduated":"March 2007",
+          "description":""
+        }
+      ],
+      "work":[
+        {
+          "company":"TCS",
+          "title":"Senior J2EE/Web Developer",
+          "years":"Nov 2007 - Present",
+          "description":""
+        }
+      ],
+      "skills":[
+        {
+          "name":"Spring",
+          "level":"90%"
+        },
+        {
+          "name":"Hibernate",
+          "level":"80%"
+        },
+        {
+          "name":"React",
+          "level":"50%"
+        },
+        {
+          "name":"CSS",
+          "level":"90%"
+        },
+        {
+          "name":"HTML5",
+          "level":"80%"
+        },
+        {
+          "name":"jQuery",
+          "level":"50%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Coffee Cup",
+          "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+          "category":"Illustrator",
+          "tags":"Branding, Web Design",
+          "image":"coffee.jpg",
+          "url":"http://port1.com",
+          "modal":"#modal-01"
+        },
+        {
+          "title":"Console",
+          "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+          "category":"Web Design",
+          "tags":"Branding, Web Development",
+          "image":"console.jpg",
+          "url":"http://port2.com",
+          "modal":"#modal-02"
+        },
+        {
+          "title":"Judah",
+          "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+          "category":"Web Development",
+          "tags":"Branding, Web Programming",
+          "image":"judah.jpg",
+          "url":"http://port3.com",
+          "modal":"#modal-03"
+        },
+        {
+          "title":"Into The Light",
+          "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+          "category":"Photography",
+          "tags":"Photography, Design",
+          "image":"into-the-light.jpg",
+          "url":"http://port4.com",
+          "modal":"#modal-04"
+        },
+        {
+          "title":"Farmer Boy",
+          "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+          "category":"Branding",
+          "tags":"Branding, Web Design",
+          "image":"farmerboy.jpg",
+          "url":"http://port5.com",
+          "modal":"#modal-05"
+        },
+        {
+          "title":"Girl",
+          "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+          "category":"Photography",
+          "tags":"Photography, Graphic Design",
+          "image":"girl.jpg",
+          "url":"http://port6.com",
+          "modal":"#modal-06"
+        },
+        {
+          "title":"Origami",
+          "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+          "category":"Illustration",
+          "tags":"Branding, Illustration",
+          "image":"origami.jpg",
+          "url":"http://port7.com",
+          "modal":"#modal-07"
+        },
+        {
+          "title":"Retrocam",
+          "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+          "category":"Web Development",
+          "tags":"Photography",
+          "image":"retrocam.jpg",
+          "url":"http://port8.com",
+          "modal":"#modal-08"
+        }
+      ]
+    },
+    "testimonials":{
+      "testimonials":[
+        {
+          "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+          "user":"John Doe"
+        },
+        {
+          "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+          "user":"Steve Smith"
+        }
+      ]
+    }
+  }
+  
